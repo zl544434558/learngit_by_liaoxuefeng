@@ -1,0 +1,7 @@
+git add rm_test.txt
+git commit rm_test.txt
+
+rm rm_test.txt
+git status
+
+git rm rm_test.txt
